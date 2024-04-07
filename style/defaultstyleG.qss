@@ -1,0 +1,28 @@
+QDialog{
+	border: 2px solid darkred;
+	background-color: #31363b;
+}
+QGroupBox{
+	border: 2px solid white;
+	border-radius: 15px;
+	background-color: darkgreen;
+	color: white;
+}
+#label_4{
+	color: white;
+}
+#label_2{
+	color: white;
+}
+#label{
+	color: white;
+}
+#label_5{
+	color: white;
+}
+QRadioButton{
+	color: white;
+}
+#label_3{
+	image: url("E:/Extensometer/OpenGL/style/IconSVG/Icon_black.svg");
+}

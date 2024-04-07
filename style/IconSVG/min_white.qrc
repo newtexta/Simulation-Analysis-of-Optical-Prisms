@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="white">
+    <file>min_white.svg</file>
+  </qresource>
+  <qresource prefix="red">
+    <file>min_red.svg</file>
+  </qresource>
+</RCC>

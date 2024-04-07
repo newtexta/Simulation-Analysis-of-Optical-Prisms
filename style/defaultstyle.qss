@@ -1,0 +1,85 @@
+#mywidget{
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 15px;
+}
+#mywidget2{
+  background-color: #202020;
+  border-radius: 15px;
+}
+#wpushButton{
+  image: url("E:/Extensometer/OpenGL/style/IconSVG/min_white.svg");
+  background-color: #202020;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 5px;
+}
+#wpushButton:hover{
+  background-color: #2a4a10;
+}
+#wpushButton:pressed{
+  background-color: #2a2a2a;
+}
+#ICON{
+  image: url("E:/Extensometer/OpenGL/style/IconSVG/Icon_black.svg");
+}
+#Title{
+  background-color: #202020;
+  color: white;
+  border: none;
+  padding: 10px;
+  font-family: Times New Roman;
+  font-size: 16px;
+  font-weight: bold;
+}
+QGroupBox{
+  color: white;
+}
+QCheckBox{
+  color: white;
+}
+#wpushButton2{
+  image: url("E:/Extensometer/OpenGL/style/IconSVG/minmax_white.svg");
+  background-color: #202020;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 5px;
+}
+#wpushButton2:hover{
+  background-color: #2a4a10;
+}
+#wpushButton2:pressed{
+  background-color: #2a2a2a;
+}
+#wpushButton3{
+  image: url("E:/Extensometer/OpenGL/style/IconSVG/close_white.svg");
+  background-color: #202020;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 5px;
+}
+#wpushButton3:hover{
+  background-color: #c42b1c;
+}
+#wpushButton3:pressed{
+  background-color: #aa0000;
+}
+QMainWindow{
+  background-color: #31363b;
+  border-radius: 15px;
+}
+QMenuBar{
+  background-color: #2b2b2b;
+}
+QMenuBar::item{
+  color: white;
+}
+QMenu::item:selected{
+  background-color: red;
+  color: yellow;
+}
+QMenuBar::item:hover{
+  background-color: lightgrey;
+}
+QAction{
+  background-color: blue;
+}
